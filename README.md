@@ -1,5 +1,6 @@
 # SDSS (Standardized-Decentralized-Service-System) V0.1
-Standardized Decentralized Service System, SDSS, proposed by AAStar to improve the business service to decentralized.
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)Standardized Decentralized Service System, SDSS, proposed by AAStar to improve the business service to decentralized.
 
 ## Why?
 So many business services are the core of the blockchain, but where is the value alignment? We say we want build a human digital future.
@@ -40,3 +41,6 @@ We create a simple demo for SDSS(Rain Computing) on gas payment senarios.
 6. we have reputations in collection request response.
    
 
+## License
+
+Licensed under the [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0). See [LICENSE](./LICENSE) for details.
